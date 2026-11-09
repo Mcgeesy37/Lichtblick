@@ -1,0 +1,22 @@
+# Lichtblick Immobilien & Beratung
+
+> Immobilienmakler in Berlin für Verkauf, Vermietung, kostenlose Immobilienbewertung und Beratung (Kapitalanlage, Erbe, Scheidung).
+
+## Unternehmen
+- Name: Lichtblick Immobilien & Beratung
+- Tätigkeitsgebiet: Berlin und Umland (Brandenburg)
+- Adresse: Musterstraße 12, 10115 Berlin
+- Telefon: 030 1234 5678
+- E-Mail: kontakt@lichtblick-immobilien.de
+- Erreichbarkeit: Montag bis Freitag, 9 bis 18 Uhr
+
+## Leistungen
+- Immobilienverkauf: Bewertung, Vermarktungsstrategie, Exposé, Besichtigungen mit geprüften Käufern, Begleitung bis zum Notar
+- Vermietung: Mietpreisermittlung unter Beachtung der Mietpreisbremse, Mieterauswahl mit Bonitätsprüfung, Mietvertrag
+- Immobilienbewertung: kostenlose Marktwerteinschätzung nach Besichtigung vor Ort
+- Beratung: Kauf, Kapitalanlage, Erbe und Nachlass, Vermittlung von Finanzierungspartnern
+
+## Seiten
+- [Startseite](https://mcgeesy37.github.io/Lichtblick/): Leistungen, aktuelle Angebote, Ablauf, FAQ, Kontakt
+- [Impressum](https://mcgeesy37.github.io/Lichtblick/impressum.html)
+- [Datenschutz](https://mcgeesy37.github.io/Lichtblick/datenschutz.html)
